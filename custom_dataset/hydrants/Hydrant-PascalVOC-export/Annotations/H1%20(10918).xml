@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>H1%20(10918).png</filename>
+    <path>Hydrant-PascalVOC-export/Annotations/H1%20(10918).png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Hydrant</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>16.86390532544379</xmin>
+        <ymin>23.96449704142012</ymin>
+        <xmax>59.76331360946746</xmax>
+        <ymax>86.98224852071006</ymax>
+    </bndbox>
+</object>
+</annotation>

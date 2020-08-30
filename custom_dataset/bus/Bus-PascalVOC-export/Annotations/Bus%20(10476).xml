@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>Bus%20(10476).png</filename>
+    <path>Bus-PascalVOC-export/Annotations/Bus%20(10476).png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Bus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>29.02097902097902</xmin>
+        <ymin>32.86713286713287</ymin>
+        <xmax>87.76223776223776</xmax>
+        <ymax>58.391608391608386</ymax>
+    </bndbox>
+</object>
+</annotation>

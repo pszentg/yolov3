@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>CW%20(10973).png</filename>
+    <path>Crosswalk-PascalVOC-export/Annotations/CW%20(10973).png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>6.319702602230483</xmin>
+        <ymin>60.78066914498141</ymin>
+        <xmax>57.24907063197026</xmax>
+        <ymax>99.44237918215613</ymax>
+    </bndbox>
+</object>
+</annotation>

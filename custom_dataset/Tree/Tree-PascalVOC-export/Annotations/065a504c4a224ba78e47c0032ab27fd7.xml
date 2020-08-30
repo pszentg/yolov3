@@ -1,0 +1,15 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>065a504c4a224ba78e47c0032ab27fd7.png</filename>
+    <path>Tree-PascalVOC-export/Annotations/065a504c4a224ba78e47c0032ab27fd7.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    
+</annotation>

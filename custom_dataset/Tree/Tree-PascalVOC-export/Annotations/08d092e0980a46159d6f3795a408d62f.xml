@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>08d092e0980a46159d6f3795a408d62f.png</filename>
+    <path>Tree-PascalVOC-export/Annotations/08d092e0980a46159d6f3795a408d62f.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Tree</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>40.828402366863905</xmin>
+        <ymin>8.579881656804734</ymin>
+        <xmax>100</xmax>
+        <ymax>100</ymax>
+    </bndbox>
+</object>
+</annotation>

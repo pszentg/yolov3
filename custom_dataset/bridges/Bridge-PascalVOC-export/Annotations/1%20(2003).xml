@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>1%20(2003).png</filename>
+    <path>Bridge-PascalVOC-export/Annotations/1%20(2003).png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Bridge</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>5.5762081784386615</xmin>
+        <ymin>5.018587360594795</ymin>
+        <xmax>97.39776951672862</xmax>
+        <ymax>61.89591078066914</ymax>
+    </bndbox>
+</object>
+</annotation>

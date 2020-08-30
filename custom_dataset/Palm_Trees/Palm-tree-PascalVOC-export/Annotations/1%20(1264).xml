@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>1%20(1264).png</filename>
+    <path>Palm-tree-PascalVOC-export/Annotations/1%20(1264).png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Palm tree</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>13.134328358208954</xmin>
+        <ymin>11.492537313432834</ymin>
+        <xmax>54.328358208955216</xmax>
+        <ymax>88.2089552238806</ymax>
+    </bndbox>
+</object>
+</annotation>

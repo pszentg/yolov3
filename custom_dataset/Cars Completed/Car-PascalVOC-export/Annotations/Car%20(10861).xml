@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>Car%20(10861).png</filename>
+    <path>Car-PascalVOC-export/Annotations/Car%20(10861).png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>44.91228070175438</xmin>
+        <ymin>12.105263157894736</ymin>
+        <xmax>54.73684210526315</xmax>
+        <ymax>26.49122807017544</ymax>
+    </bndbox>
+</object>
+</annotation>

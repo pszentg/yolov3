@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>03d62a68db794e4189429aa8093850d8.png</filename>
+    <path>Statue-PascalVOC-export/Annotations/03d62a68db794e4189429aa8093850d8.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Statue</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>19.23076923076923</xmin>
+        <ymin>3.8461538461538463</ymin>
+        <xmax>73.96449704142012</xmax>
+        <ymax>98.81656804733727</ymax>
+    </bndbox>
+</object>
+</annotation>

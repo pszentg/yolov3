@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>TL%20(10849).png</filename>
+    <path>Traffic-light-PascalVOC-export/Annotations/TL%20(10849).png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Traffic light</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>5.9171597633136095</xmin>
+        <ymin>26.035502958579883</ymin>
+        <xmax>32.24852071005917</xmax>
+        <ymax>40.23668639053255</ymax>
+    </bndbox>
+</object>
+</annotation>

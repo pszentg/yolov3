@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>1%20(10441).png</filename>
+    <path>Bicycle-PascalVOC-export/Annotations/1%20(10441).png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Bicycle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>22.419928825622776</xmin>
+        <ymin>51.42348754448399</ymin>
+        <xmax>74.02135231316726</xmax>
+        <ymax>100</ymax>
+    </bndbox>
+</object>
+</annotation>

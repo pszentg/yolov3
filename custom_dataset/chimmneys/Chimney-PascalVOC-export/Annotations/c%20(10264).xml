@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>c%20(10264).png</filename>
+    <path>Chimney-PascalVOC-export/Annotations/c%20(10264).png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Chimney</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>60.48951048951049</xmin>
+        <ymin>42.65734265734265</ymin>
+        <xmax>92.3076923076923</xmax>
+        <ymax>67.13286713286712</ymax>
+    </bndbox>
+</object>
+</annotation>

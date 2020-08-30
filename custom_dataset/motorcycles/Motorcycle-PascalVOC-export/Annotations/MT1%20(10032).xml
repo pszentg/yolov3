@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>MT1%20(10032).png</filename>
+    <path>Motorcycle-PascalVOC-export/Annotations/MT1%20(10032).png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Motorcycle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>40.23668639053255</xmin>
+        <ymin>56.21301775147929</ymin>
+        <xmax>74.26035502958581</xmax>
+        <ymax>97.33727810650888</ymax>
+    </bndbox>
+</object>
+</annotation>

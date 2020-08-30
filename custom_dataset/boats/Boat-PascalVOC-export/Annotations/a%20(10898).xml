@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>a%20(10898).png</filename>
+    <path>Boat-PascalVOC-export/Annotations/a%20(10898).png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Boat</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>18.215613382899626</xmin>
+        <ymin>38.847583643122675</ymin>
+        <xmax>89.21933085501857</xmax>
+        <ymax>71.56133828996282</ymax>
+    </bndbox>
+</object>
+</annotation>

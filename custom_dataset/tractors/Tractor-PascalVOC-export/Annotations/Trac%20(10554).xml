@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>Trac%20(10554).png</filename>
+    <path>Tractor-PascalVOC-export/Annotations/Trac%20(10554).png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Tractor</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>12.1301775147929</xmin>
+        <ymin>3.550295857988166</ymin>
+        <xmax>98.5207100591716</xmax>
+        <ymax>55.02958579881657</ymax>
+    </bndbox>
+</object>
+</annotation>
